@@ -16,13 +16,13 @@ cube = a ** 3  # Calculate the volume of the cube
 
 print("The volume of the cube is:")
 print(cube)
-
+#The equation of the cone
 cone = 1/3*π*r
-
+# The H value of the cylinder equation.
 h = int(input("Please enter the height of Cylinder"))
-
+# The X value of the cylinder equation
 x = int(input("Please enter the radius of the Cylinder"))
-
+# The equation of the cylinder
 cylinder = π*x**2*h
 
 print("The volume of the sphere is: ")
